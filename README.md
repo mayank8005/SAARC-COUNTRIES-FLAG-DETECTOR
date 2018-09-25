@@ -16,4 +16,4 @@
 
 
 ****
-** Note: This script is tested only on linux based system**
+**Note: This script is tested only on linux based system**
